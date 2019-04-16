@@ -1,0 +1,13 @@
+English language tutorial...............................monday from 5pm-7pm
+deep learning...........................................deep learning text book......tuesday
+udacity.................................................machine learning......tuesday from 5pm -7pm
+mit.....................................................deep learning......wensday from 5pm- 7pm
+udacity.................................................how to use git and github....thursday  
+pytorch.................................................deep learning with pytorch.....friday
+Jordan b. Peterson lectures ............................friday night
+python .................................................head first python......sathurday
+python documentaion.....................................sathurday night at home 
+django..................................................django documentation.......sunday morning
+steve jobs .............................................sunday afternoon
+movie...................................................sunday night
+
