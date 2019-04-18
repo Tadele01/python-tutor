@@ -28,3 +28,12 @@ try:
     1/0
 except Exception as err:
     print('some other error occurred', str(err))
+#Creating custom exception
+
+class ConnectionError(Exception): #inherit from the generic Exception class
+    pass
+raise ConnectionError('Cannot connect ... is it time to panic ?')
+try:
+    raise ConnectionError('Whoops!')
+except ConnectionError as err:
+    print('Got', str(err))
