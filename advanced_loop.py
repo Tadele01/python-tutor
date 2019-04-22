@@ -59,4 +59,5 @@ students2 = {}
 for k, v in students.items():
     students2[convert2ampm(k)] = v.title()
 pprint.pprint(students2) 
-        
+
+#converting patterns into Comprehensions
