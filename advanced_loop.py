@@ -61,3 +61,9 @@ for k, v in students.items():
 pprint.pprint(students2) 
 
 #converting patterns into Comprehensions
+
+more_dest = []
+more_dest = [dest.title() for dest in students2.values()]
+fts2 = [convert2ampm(ft) for ft in students2.keys()]
+
+
